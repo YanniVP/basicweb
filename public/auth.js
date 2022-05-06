@@ -1,4 +1,3 @@
-import { } from 'firebase/auth';
 const auth = firebase.auth();
 const provider = new firebase.auth.GoogleAuthProvider();
 auth.languageCode = "es"; 
